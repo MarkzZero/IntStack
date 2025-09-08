@@ -47,7 +47,7 @@ p.push(3);
 System.out.println("Maior valor: " + p.max()); 
 ```
 
-##📌 Observação
+## 📌 Observação
 
 O método `max()` utiliza uma pilha auxiliar para restaurar a pilha original após a busca. Assim, mesmo com operações destrutivas como `pop()`, o estado da pilha permanece intacto ao final da operação.
 
