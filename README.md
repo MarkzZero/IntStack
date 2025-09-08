@@ -44,7 +44,7 @@ Pilha p = new Pilha();
 p.push(10);
 p.push(25);
 p.push(3);
-System.out.println("Maior valor: " + p.max()); // Saída: 25
+System.out.println("Maior valor: " + p.max()); 
 ```
 
 ##📌 Observação
