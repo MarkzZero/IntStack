@@ -28,7 +28,7 @@ A pilha é construída com listas encadeadas simples e não utiliza bibliotecas 
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/IntStackPlus.git
+git clone https://github.com/MarkzZero/IntStack.git
 ```
 
 ### 2. Importe para sua IDE
